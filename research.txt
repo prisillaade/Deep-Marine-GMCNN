@@ -1,0 +1,2 @@
+Neural Networks are a set of algorithms layered together to recognize the underlying patterns in input data. The patterns they recognize are numerical, contained in vectors, into which all real-world data, be it images, sound, text, or time series.
+
